@@ -2,7 +2,7 @@
 
 This repository provides the code and data for the paper 
 
->Bridging chemical structure and conceptual knowledge representations improves prediction of compound-protein interaction
+> Bridging Chemical Structure and Conceptual Knowledge Enables Accurate Prediction of Compound-Protein Interaction
 
 ## 1. Requirements
 
