@@ -1,4 +1,4 @@
-# KG-CPI
+# BEACON
 
 This repository provides the code and data for the paper 
 
