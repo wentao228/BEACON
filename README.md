@@ -37,7 +37,7 @@ python main.py --dataset human --iteration 3
 python protein_feature_extraction.py --input_file drugbank_protein_sequences.csv --output_file drugbank_protein_features.npy
 ```
 
-### Get KGE Embeddings on Your Dataset
+### Get KG Embeddings on Your Dataset
 
 To install the latest version of DGL-KE run:
 
