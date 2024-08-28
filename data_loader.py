@@ -10,7 +10,7 @@ class DataLoader():
         self.smiles2fingerprint = dict()
         self.smiles2maccs = dict()
 
-        if config['args_dataset'] == 'biosnap' or config['args_dataset'] == 'unseen_drug_biosnap':
+        if config['args_dataset'] == 'biosnap' or config['args_dataset'] == 'unseen_drug_biosnap' or config['args_dataset'] == 'cluster':
             train_cpi_path = config['dataset']['train_{}_dataset_path'.format(config['args_dataset'])]
             val_cpi_path = config['dataset']['val_{}_dataset_path'.format(config['args_dataset'])]
             test_cpi_path = config['dataset']['test_{}_dataset_path'.format(config['args_dataset'])]
