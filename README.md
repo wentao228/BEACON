@@ -2,7 +2,23 @@
 
 This repository provides the code and data for the paper
 
-> Bridging Chemical Structure and Conceptual Knowledge Enables Accurate Prediction of Compound-Protein Interaction
+> Bridging chemical structure and conceptual knowledge enables accurate prediction of compound-protein interaction
+
+## Citation
+If you want to use our code and datasets in your research, please cite:
+
+```
+@article{tao2024bridging,
+  title={Bridging chemical structure and conceptual knowledge enables accurate prediction of compound-protein interaction},
+  author={Tao, Wen and Lin, Xuan and Liu, Yuansheng and Zeng, Li and Ma, Tengfei and Cheng, Ning and Jiang, Jing and Zeng, Xiangxiang and Yuan, Sisi},
+  journal={BMC biology},
+  volume={22},
+  number={1},
+  pages={248},
+  year={2024},
+  publisher={Springer}
+}
+```
 
 ## 1. Requirements
 
